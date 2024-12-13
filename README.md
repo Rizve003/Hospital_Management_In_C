@@ -5,10 +5,10 @@ The **ARCH Hospital Management System** is a project developed using the C progr
 
 ## Team Members
 - **Leader & Lead Developer: Kh. Rzve Reza**  
-- **Assistant Developer: *Fhad Sarkar*  
-- **UI/UX Designer: *Mahamudul Hasan*  
-- **Marketing Manager: *Satu Chandra Bhowmik*
-- **System Analyst: *Md. Chand Mandal*
+- **Assistant Developer: Fhad Sarkar**  
+- **UI/UX Designer: Mahamudul Hasan** 
+- **Marketing Manager: Satu Chandra Bhowmik**
+- **System Analyst: Md. Chand Mandal**
 
 ## Features
 1. **Doctor Information Management**  
